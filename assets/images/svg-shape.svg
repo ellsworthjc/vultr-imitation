@@ -1,0 +1,9 @@
+<svg class="svg-shape svg-shape--right" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 1643 944" fill="url('#svg-gradient__shape-right')" >
+	<path d="M1607.9,308.2L537.4,923.8c-23.4,13.5-54.1,20.2-84.8,20.2s-61.4-6.7-84.8-20.2L35.1,733.4C11.7,719.9,0,702.3,0,684.6c0-17.7,11.7-35.4,35.1-48.8l688.1-395.7l382.3-219.8C1129.1,6.8,1159.8,0,1190.5,0c30.7,0,61.4,6.8,84.8,20.2l226.3,130.2l106.3,60.2c23.4,13.5,35.1,31.2,35.1,48.8S1631.3,294.8,1607.9,308.2z"></path>
+	<defs>
+		<linearGradient id="svg-gradient__shape-right" gradientUnits="userSpaceOnUse" x1="1839.293" y1="869.2488" x2="46.6911" y2="216.7951" gradientTransform="matrix(1 0 0 -1 0 1086)">
+	<stop offset="5%" stop-color="#101C4F"></stop>
+	<stop offset="95%" stop-color="#223A9F"></stop>
+</linearGradient>
+	</defs>
+</svg>

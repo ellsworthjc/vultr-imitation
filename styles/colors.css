@@ -1,0 +1,23 @@
+:root {
+    --primary-blue: rgb(0, 123, 252);
+    --secondary-blue: rgb(81, 185, 255);
+    --tertiary-blue: rgb(201, 244, 255);
+
+    --primary-orange: rgb(255, 69, 0);
+
+    --font-dark-prim: rgb(20, 33, 73);
+    --font-dark-sec: rgb(82, 86, 102);
+    --font-light-prim: rgb(255, 255, 255);
+    --font-light-sec: rgba(229,235,255,.8);
+    --font-light-ter: rgba(229,235,255,.56);
+
+    --grad-dark: rgb(2, 16, 72);
+    --grad-light: rgb(30, 56, 163);
+
+    --nav-item-border: rgba(223,226,235,.32);
+    --nav-item-border-hover: rgba(223,226,235,.64);
+
+    --form-border-color: rgb(211, 214, 226);
+    --placeholder-color: rgb(161, 164, 176);
+    --icon-color: rgb(134, 146, 176);
+}

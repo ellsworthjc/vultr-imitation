@@ -1,0 +1,44 @@
+@import 'colors.css';
+
+:root {
+    font-size: 17px;
+}
+
+body {
+    --font-family: Roboto, sans-serif;
+    font-family: Roboto, sans-serif;
+    color: var(--font-light-prim);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+}
+
+.banner-title {
+    font-size: 3.25rem;
+    line-height: 3.25rem;
+    margin: 0;
+}
+
+.banner-desc {
+    font-size: 1.5rem;
+    max-width: 750px;
+    font-weight: 300;
+    text-align: center;
+    color: var(--font-light-sec);
+    line-height: 2.5rem;
+    padding: 0;
+    margin-bottom: 0;
+}
+
+.tm {
+    font-size: 64%;
+    vertical-align: top;
+    position: relative;
+    top: -3px;
+    line-height: 2.5rem;
+}
+
+.text-nowrap {
+    white-space: nowrap;
+}
